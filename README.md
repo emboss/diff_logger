@@ -38,6 +38,6 @@ for more information.
 
 ## License
 
-Copyright (c) 2012-2013 Martin Boßlet. Distributed under the MIT License. See LICENSE for 
+Copyright (c) 2013 Martin Boßlet. Distributed under the MIT License. See LICENSE for 
 further details.
 
