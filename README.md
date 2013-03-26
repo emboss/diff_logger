@@ -21,7 +21,7 @@ This will now log (at `:info` level) the changes made during an update to the Ra
 ## Using a custom logger
 
 ```ruby
-require 'diff_logger`
+require 'diff_logger'
 
 class Post < ActiveRecord::Base
   include DiffLogger.custom { |changes| puts "Custom: #{changes.inspect}" }
